@@ -7,10 +7,10 @@
         "locale_last_updated": "2019-12-25 12:00:00 UTC",
         "locale_author_name": "maxkorsov",
         "locale_author_email": "",
-        "locale_source_url": "https://nodetics.com/feedbro/"
+        "locale_source_url": "https://github.com/maxkorsov/feedbro-ru/raw/master/feedbro-locale-ru_RU.json"
     },
-    "addfeed_url_body": "URL подписки",
-    "addfeed_load_body": "Загрузка",
+    "addfeed_url_body": "URL-адрес подписки",
+    "addfeed_load_body": "Загрузить",
     "addfeed_title_body": "Название",
     "addfeed_latestentry_body": "Последняя запись опубликована",
     "addfeed_status_body": "Статус",
@@ -24,7 +24,7 @@
     "addfeed_entrycontent_select_fulltextimage_body": "Получить полный текст с основным изображением",
     "addfeed_entrycontent_select_fulltextimage_title": "This is a slow and imprecise way to parse the full article content. Like Readability. Each feed article causes a separate HTTP GET request. It does not work with all sites. Main image is taken from og:image meta data.",
     "addfeed_entrycontent_select_fulltext_body": "Получить полный текст",
-    "addfeed_entrycontent_select_fulltext_title": "This is a slow and imprecise way to parse the full article content. Like Readability. Each feed article causes a separate HTTP GET request. It does not work with all sites.",
+    "addfeed_entrycontent_select_fulltext_title": "Это медленный и неточный способ обработки всего содержимого статьи. Like Readability. Each feed article causes a separate HTTP GET request. It does not work with all sites.",
     "addfeed_scaninterval_body": "Интервал сканирования",
     "addfeed_scaninterval_default_body": "по умолчанию",
     "addfeed_scaninterval_select_title": "Number of minutes to wait until the next scan for unread items takes place",
