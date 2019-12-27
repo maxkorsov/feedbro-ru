@@ -16,7 +16,7 @@ In the future, use the "Update" button in the application settings to receive up
 
 # Русская локализация для Feedbro
 
-**Быстрое и бесплатное расширение для браузеров Chrome, Vivaldi, Edge, Brave и Firefox для чтения блогов, новостей и любых RSS, Atom или RDF-каналов.**
+***Быстрое и бесплатное расширение для браузеров Chrome, Vivaldi, Edge, Brave и Firefox для чтения блогов, новостей и любых RSS, Atom или RDF-каналов.***
 
 Этот русский перевод был специально сделан для [Firefox](https://addons.mozilla.org/ru/firefox/addon/feedbroreader/ "Перейти на страницу расширения").
 
@@ -26,4 +26,4 @@ https://raw.githubusercontent.com/maxkorsov/feedbro-ru/master/feedbro-locale-ru_
 
 В будущем пользуйтесь кнопкой "Обновить", в настройках приложения, чтобы получать обновления.
 
- *Домашняя страница проекта* [Feedbro](https://nodetics.com/feedbro/  "Перейти на страницу проекта")
+ *Домашняя страница проекта [Feedbro](https://nodetics.com/feedbro/  "Перейти на страницу проекта")*
