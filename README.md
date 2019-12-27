@@ -1,16 +1,14 @@
 # Russian localization for Feedbro
 
-**Fast & free RSS feed reader as a browser extension for Chrome, Vivaldi, Edge, Brave and Firefox for reading blogs, news or any RSS, Atom or RDF based feed.**
+***[Feedbro](https://nodetics.com/feedbro/  "Project homepage")*** *fast & free RSS feed reader as a browser extension for Chrome, Vivaldi, Edge, Brave and Firefox for reading blogs, news or any RSS, Atom or RDF based feed.*
 
-This Russian translation was specially made **for Firefox:** https://addons.mozilla.org/en-GB/firefox/addon/feedbroreader/
+This Russian translation was specially made for [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/feedbroreader/ "Перейти на страницу расширения").
 
 To use the Russian language in Feedbro, upload its localization file to the application settings, at this link:
 
 https://raw.githubusercontent.com/maxkorsov/feedbro-ru/master/feedbro-locale-ru_RU.json
 
 In the future, use the "Update" button in the application settings to receive updates.
-
-*Project homepage Feedbro:* https://nodetics.com/feedbro/
 
 ----
 
