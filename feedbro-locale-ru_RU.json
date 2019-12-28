@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.0",
+        "locale_version": "1.00",
         "locale_name": "Русский",
         "locale_type": "ru_RU",
-        "locale_last_updated": "2019-12-27 12:00:00 UTC",
+        "locale_last_updated": "2019-12-28 12:00:00 UTC",
         "locale_author_name": "maxkorsov",
         "locale_author_email": "maxkorsov@ya.ru",
         "locale_source_url": "https://raw.githubusercontent.com/maxkorsov/feedbro-ru/master/feedbro-locale-ru_RU.json"
