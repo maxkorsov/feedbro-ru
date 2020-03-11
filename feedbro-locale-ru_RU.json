@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.01",
+        "locale_version": "1.02",
         "locale_name": "Русский",
         "locale_type": "ru_RU",
-        "locale_last_updated": "2020-01-24 12:00:00 UTC",
+        "locale_last_updated": "2020-03-11 12:00:00 UTC",
         "locale_author_name": "maxkorsov",
         "locale_author_email": "maxkorsov@ya.ru",
         "locale_source_url": "https://raw.githubusercontent.com/maxkorsov/feedbro-ru/master/feedbro-locale-ru_RU.json"
@@ -351,6 +351,8 @@
     "options_skipopmldupes_input_title": "Если это так, то при импорте OPML, Feedbro будет пропускать каналы и папки которые уже существуют.",
     "options_truncatetitles_body": "Сократить заголовок ('Вид 2'):",
     "options_truncatetitles_input_title": "Если это так, то Feedbro будет обрезать длинные заголовки в режиме просмотра 'Вид 2'.",
+    "options_disableheaderlistener_body": "Отключить прослушиватель заголовка HTTP:",
+    "options_disableheaderlistener_input_title": "Если это так, то Feedbro может не показывать веб-сайты в режиме просмотра 'Вид 6', а полученные заголовки HTTP-ссылок могут привести к утечке памяти. Чтобы применить изменение этой настройки нужно перезапустить браузер.",
     "options_goback_title": "Нажмите, чтобы перейти в Feedbro Reader.",
     "options_error_bookmarks_noselection": "Вы должны выбрать хотя бы одну закладку!",
     "options_error_bookmarks_invalidfile": "{1} не является HTML-файлом закладок Firefox!",
