@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.031",
+        "locale_version": "1.032",
         "locale_name": "Русский",
         "locale_type": "ru_RU",
-        "locale_last_updated": "2020-04-08 12:00:00 UTC",
+        "locale_last_updated": "2021-01-05 12:00:00 UTC",
         "locale_author_name": "maxkorsov",
         "locale_author_email": "maxkorsov@ya.ru",
         "locale_source_url": "https://raw.githubusercontent.com/maxkorsov/feedbro-ru/master/feedbro-locale-ru_RU.json"
@@ -414,6 +414,10 @@
     "ruleform_action_ifttt_title": "Введите полный URL-адрес к вашему IFTTT Maker channel POST URL, в качестве параметра.",
     "ruleform_action_points_body": "Добавить баллы",
     "ruleform_action_points_title": "Добавить или вычесть баллы у новости в канале. Общее количество баллов учитывается при использовании сортировки 'По баллам'.",
+    "ruleform_action_discord_body": "Ссылка на Discord HTTP POST ",
+    "ruleform_action_discord_title": "Поделиться ссылкой и заголовком статьи в канал Discord",
+    "ruleform_action_slack_body": "Ссылка на Slack HTTP POST",
+    "ruleform_action_slack_title": "Поделиться ссылкой и заголовком статьи в канал Slack",
     "ruleform_action_add_body": "Добавить действие",
     "ruleform_delete_body": "Удалить",
     "ruleform_delete_title": "Удалить правило.",
